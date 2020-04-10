@@ -1,0 +1,2 @@
+# Wick
+Türkçe Phishing Tool 
